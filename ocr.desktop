@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Name=ocr
+Exec=/home/steve/Desktop/steve/internship/tesseract-python/ocr_w_gui.py
+Icon=/home/steve/Desktop/steve/internship/tesseract-python/download.jpeg
+Type=Application
